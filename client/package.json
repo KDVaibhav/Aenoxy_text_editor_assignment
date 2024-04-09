@@ -13,6 +13,7 @@
     "@types/lodash": "^4.17.0",
     "axios": "^1.6.8",
     "express": "^4.19.2",
+    "lodash": "^4.17.21",
     "monaco-editor": "^0.47.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -33,6 +34,6 @@
     "vite": "^5.2.0"
   },
   "resolutions": {
-  "monaco-editor": "0.47.0" 
-}
+    "monaco-editor": "0.47.0"
+  }
 }
