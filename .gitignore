@@ -1,4 +1,4 @@
 ./server/node_modules
 ./client/node_modules
-./server/env
-./server/dist/env
+./server/.env
+./server/dist/.env
